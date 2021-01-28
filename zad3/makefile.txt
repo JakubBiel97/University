@@ -1,2 +1,0 @@
-all:	main.cpp
-	g++ -o JakubBielZ2 main.cpp	-lstdc++ 
